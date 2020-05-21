@@ -1,0 +1,9 @@
+C:\C# code\MECH423 Serial Communicator\MECH423 Serial Communicator\bin\Debug\MECH423 Serial Communicator.exe
+C:\C# code\MECH423 Serial Communicator\MECH423 Serial Communicator\bin\Debug\MECH423 Serial Communicator.pdb
+C:\C# code\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C# code\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Debug\MECH423_Lab2_Exam_Serial_Comm.Form1.resources
+C:\C# code\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Debug\MECH423_Lab2_Exam_Serial_Comm.Properties.Resources.resources
+C:\C# code\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C# code\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C# code\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Debug\MECH423 Serial Communicator.exe
+C:\C# code\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Debug\MECH423 Serial Communicator.pdb

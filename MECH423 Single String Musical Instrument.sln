@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MECH423 Single String Musical Instrument", "MECH423 Serial Communicator\MECH423 Single String Musical Instrument.csproj", "{CB445DDA-16A0-4534-AD44-874527B3E23E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB445DDA-16A0-4534-AD44-874527B3E23E}.Debug|x86.ActiveCfg = Debug|x86
+		{CB445DDA-16A0-4534-AD44-874527B3E23E}.Debug|x86.Build.0 = Debug|x86
+		{CB445DDA-16A0-4534-AD44-874527B3E23E}.Release|x86.ActiveCfg = Release|x86
+		{CB445DDA-16A0-4534-AD44-874527B3E23E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49EA6166-2158-45CB-A300-221403BC1064}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+D:\Course Material\Mech 4\Mech 423\Lab 3\MECH423 Motor Speed Modulator\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.exe
+D:\Course Material\Mech 4\Mech 423\Lab 3\MECH423 Motor Speed Modulator\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.pdb
+D:\Course Material\Mech 4\Mech 423\Lab 3\MECH423 Motor Speed Modulator\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Form1.resources
+D:\Course Material\Mech 4\Mech 423\Lab 3\MECH423 Motor Speed Modulator\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Properties.Resources.resources
+D:\Course Material\Mech 4\Mech 423\Lab 3\MECH423 Motor Speed Modulator\MECH423 Serial Communicator\obj\x86\Release\MECH423 Motor Speed Controller.csproj.GenerateResource.Cache
+D:\Course Material\Mech 4\Mech 423\Lab 3\MECH423 Motor Speed Modulator\MECH423 Serial Communicator\obj\x86\Release\MECH423 Motor Speed Controller.csproj.CoreCompileInputs.cache
+D:\Course Material\Mech 4\Mech 423\Lab 3\MECH423 Motor Speed Modulator\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.exe
+D:\Course Material\Mech 4\Mech 423\Lab 3\MECH423 Motor Speed Modulator\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.pdb
+D:\Course Material\Mech 4\Mech 423\Lab 3\MECH423 Motor Speed Modulator\MECH423 Serial Communicator\obj\x86\Release\MECH423 Motor Speed Controller.csprojResolveAssemblyReference.cache

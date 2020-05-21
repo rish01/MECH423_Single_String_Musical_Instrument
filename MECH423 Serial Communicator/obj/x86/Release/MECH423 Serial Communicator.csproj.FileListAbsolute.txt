@@ -1,0 +1,26 @@
+C:\C# code\MECH423 Serial Communicator\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.exe
+C:\C# code\MECH423 Serial Communicator\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.pdb
+C:\C# code\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\ResolveAssemblyReference.cache
+C:\C# code\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Form1.resources
+C:\C# code\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Properties.Resources.resources
+C:\C# code\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\GenerateResource.read.1.tlog
+C:\C# code\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\GenerateResource.write.1.tlog
+C:\C# code\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.exe
+C:\C# code\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.pdb
+C:\C# code 2014-2015\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.exe
+C:\C# code 2014-2015\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.pdb
+C:\C# code 2014-2015\MECH423 Serial Communicator\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.exe
+C:\C# code 2014-2015\MECH423 Serial Communicator\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.pdb
+C:\C# code 2014-2015\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.csprojResolveAssemblyReference.cache
+C:\C# code 2014-2015\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Form1.resources
+C:\C# code 2014-2015\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Properties.Resources.resources
+C:\C# code 2014-2015\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.csproj.GenerateResource.Cache
+D:\Course Material\Mech 4\Mech 423\Lab 2\MECH423 Serial Communicator\MECH423 Serial Communicator\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.exe
+D:\Course Material\Mech 4\Mech 423\Lab 2\MECH423 Serial Communicator\MECH423 Serial Communicator\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.pdb
+D:\Course Material\Mech 4\Mech 423\Lab 2\MECH423 Serial Communicator\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.csprojResolveAssemblyReference.cache
+D:\Course Material\Mech 4\Mech 423\Lab 2\MECH423 Serial Communicator\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Form1.resources
+D:\Course Material\Mech 4\Mech 423\Lab 2\MECH423 Serial Communicator\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Properties.Resources.resources
+D:\Course Material\Mech 4\Mech 423\Lab 2\MECH423 Serial Communicator\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.csproj.GenerateResource.Cache
+D:\Course Material\Mech 4\Mech 423\Lab 2\MECH423 Serial Communicator\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.csproj.CoreCompileInputs.cache
+D:\Course Material\Mech 4\Mech 423\Lab 2\MECH423 Serial Communicator\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.exe
+D:\Course Material\Mech 4\Mech 423\Lab 2\MECH423 Serial Communicator\MECH423 Serial Communicator\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.pdb

@@ -1,0 +1,16 @@
+D:\Course Material\Mech 4\Mech 423\Final Project\MECH423 Single String Musical Instrument\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.exe
+D:\Course Material\Mech 4\Mech 423\Final Project\MECH423 Single String Musical Instrument\MECH423 Serial Communicator\bin\Release\MECH423 Serial Communicator.pdb
+D:\Course Material\Mech 4\Mech 423\Final Project\MECH423 Single String Musical Instrument\MECH423 Serial Communicator\obj\x86\Release\MECH423 Single String Musical Instrument.csprojResolveAssemblyReference.cache
+D:\Course Material\Mech 4\Mech 423\Final Project\MECH423 Single String Musical Instrument\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Form1.resources
+D:\Course Material\Mech 4\Mech 423\Final Project\MECH423 Single String Musical Instrument\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Properties.Resources.resources
+D:\Course Material\Mech 4\Mech 423\Final Project\MECH423 Single String Musical Instrument\MECH423 Serial Communicator\obj\x86\Release\MECH423 Single String Musical Instrument.csproj.GenerateResource.Cache
+D:\Course Material\Mech 4\Mech 423\Final Project\MECH423 Single String Musical Instrument\MECH423 Serial Communicator\obj\x86\Release\MECH423 Single String Musical Instrument.csproj.CoreCompileInputs.cache
+D:\Course Material\Mech 4\Mech 423\Final Project\MECH423 Single String Musical Instrument\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.exe
+D:\Course Material\Mech 4\Mech 423\Final Project\MECH423 Single String Musical Instrument\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.pdb
+C:\Course Material\Mech 4\Mech 423\Final Project\MECH423 Single String Musical Instrument\MECH423 Serial Communicator\obj\x86\Release\MECH423 Single String Musical Instrument.csprojAssemblyReference.cache
+C:\Course Material\Mech 4\Mech 423\Final Project\MECH423 Single String Musical Instrument\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Form1.resources
+C:\Course Material\Mech 4\Mech 423\Final Project\MECH423 Single String Musical Instrument\MECH423 Serial Communicator\obj\x86\Release\MECH423_Lab2_Exam_Serial_Comm.Properties.Resources.resources
+C:\Course Material\Mech 4\Mech 423\Final Project\MECH423 Single String Musical Instrument\MECH423 Serial Communicator\obj\x86\Release\MECH423 Single String Musical Instrument.csproj.GenerateResource.cache
+C:\Course Material\Mech 4\Mech 423\Final Project\MECH423 Single String Musical Instrument\MECH423 Serial Communicator\obj\x86\Release\MECH423 Single String Musical Instrument.csproj.CoreCompileInputs.cache
+C:\Course Material\Mech 4\Mech 423\Final Project\MECH423 Single String Musical Instrument\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.exe
+C:\Course Material\Mech 4\Mech 423\Final Project\MECH423 Single String Musical Instrument\MECH423 Serial Communicator\obj\x86\Release\MECH423 Serial Communicator.pdb
