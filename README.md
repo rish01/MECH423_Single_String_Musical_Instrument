@@ -13,6 +13,7 @@ The calibration tab, as shown below, is used to calibrate the stepper motor posi
 
 <img src = "images/calibration_tab_screenshot.png" height=500>
 
+<br/>
 
 ## Firmware for MSP430FR5739
 I wrote the [C firmware](https://github.com/rish01/MECH423_SingleStringMusicalInstrument/blob/master/Firmware_C/Firmware_MSP430.c) for MSP430FR5739 board to control two stepper motors (one for tensioning and one for plucking the string) by configuring digital pins’ interrupts to control Pololu stepper motor drivers, setting up two timers in up mode and their respective interrupt service routines to control motors’ speed, enabling UART communication between PC and MSP430, and using a queue to send and receive position bytes of the motor. 
