@@ -4,6 +4,7 @@ For the MECH423 final project, I and my partner, Juanes Bustamante, designed a s
 
 <img src = "images/instrument.png" width=500>
 
+<br/>
 ## C# GUI
 To play piano notes and/or jingle bells on the instrument, I designed a GUI using C#. The GUI connects to the TI board over UART through a COM port. The screenshot below shows the play tab of the GUI used to control the single string musical instrument.
 
@@ -14,7 +15,6 @@ The calibration tab, as shown below, is used to calibrate the stepper motor posi
 <img src = "images/calibration_tab_screenshot.png" height=500>
 
 <br/>
-
 ## Firmware for MSP430FR5739
 I wrote the [C firmware](https://github.com/rish01/MECH423_SingleStringMusicalInstrument/blob/master/Firmware_C/Firmware_MSP430.c) for MSP430FR5739 board to control two stepper motors (one for tensioning and one for plucking the string) by configuring digital pins’ interrupts to control Pololu stepper motor drivers, setting up two timers in up mode and their respective interrupt service routines to control motors’ speed, enabling UART communication between PC and MSP430, and using a queue to send and receive position bytes of the motor. 
 
